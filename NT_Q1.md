@@ -41,7 +41,8 @@ _________________
 ##### Day 26-28: Testing and Validation
  * Evaluating the finalized model on the test set to assess its generalization performance.
  * Fine-tuning the model based on insights gained from testing.
- * Addressing any issues or inconsistencies identified during testing as a team. 
+ * Checking the model for minute errors and rectifying them as soon as possible.
+ * Major changes will be made only if they are creating a great impact otherwise going with the original model.
 ##### Day 29-30: Presentation and Final Touches
  * Preparing a comprehensive presentation outlining the problem statement, methodology, results, and insights.
  * Creating visualizations (e.g., plots, charts) to effectively communicate key findings.
