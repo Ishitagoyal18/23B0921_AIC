@@ -33,7 +33,7 @@ _________________
 ##### Day 18-21: Model Optimization
 * Refining and optimizing models based on team discussions and feedbacks
 * Continuously evaluating model performance and providing constructive feedback
-  * Validating model performance using appropriate evaluation metrics (e.g., accuracy, precision, recall, F1-score) on the validation set.
+* Validating model performance using appropriate evaluation metrics (e.g., accuracy, precision, recall, F1-score) on the validation set.
 ### Week 4: Finalizing and Testing the Solution
  ##### Day 22-25: Integration
  * Integrating the optimized models into a cohesive solution.
