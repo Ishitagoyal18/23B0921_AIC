@@ -25,11 +25,11 @@ _________________
    * Experimenting with different feature selection techniques.
    * Regular team check ins to ensure everyone is on board. 
 ### Week 3: Model Development and Optimization
-  ##### Day 15-17: Model Selection
-  
-    *Implementing baseline models and establishing performance benchmarks.
-    *Collaboratively identifying areas for improvement in the initial models.
-    *Experimenting with different techniques, such as hyperparameter tuning and ensemble methods.
+   ##### Day 15-17: Model Selection
+   * Implementing baseline models and establishing performance benchmarks.
+   * Collaboratively identifying areas for improvement in the initial models.
+   * Experimenting with different techniques, such as hyperparameter tuning and ensemble methods.
+    
 ##### Day 18-21: Model Optimization
 * Refining and optimizing models based on team discussions and feedbacks
 * Continuously evaluating model performance and providing constructive feedback
