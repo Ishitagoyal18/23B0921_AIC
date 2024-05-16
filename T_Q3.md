@@ -60,4 +60,13 @@ The Hamming distance is the number of positions at which the corresponding coord
 * It accurately models the actual distance traveled in a grid environment, where only horizontal and vertical movements are allowed, and diagonal movements are prohibited.
 * It aligns with the concept of city blocks, where the distance between two points is the sum of the absolute differences between their coordinates.
 * Avoids overestimation or underestimation errors associated with other metrics that assume diagonal movements or consider only maximum coordinate differences.
-  
+
+<p align="center">
+  <img src="man.png" alt="Image Description" width="300" height="200">
+</p>
+
+
+$$
+d = |p_2 - p_1| + |q_2 - q_1|
+$$
+
