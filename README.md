@@ -55,7 +55,7 @@ _________________
  * Preparing a comprehensive presentation outlining the problem statement, methodology, results, and insights.
  * Creating visualizations (e.g., plots, charts) to effectively communicate key findings.
  * Practicing the presentation as a team and incorporating feedback.
- * 
+
 ### I think this is good and well structured approach for hackathon that is 1 month away.
 __________________
 
