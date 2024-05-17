@@ -88,3 +88,10 @@ $$
 d = |p_2 - p_1| + |q_2 - q_1|
 $$
 
+
+
+
+
+
+#### Understanding similarity between words
+_______
