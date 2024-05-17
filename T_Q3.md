@@ -88,10 +88,15 @@ $$
 d = |p_2 - p_1| + |q_2 - q_1|
 $$
 
+<br>
+<br>
+<br>
+<br>
+<br>
 
+#### Q2.  While researching on Transformers you learn about embeddings and how words are transformed into Numerical Vectors of High dimensional space, and stored on what basis the ‘likeliness’ of any two vectors are.  
+ * #### What is the common criterion used to define this ‘likeliness’ mathematically between any two words?
 
-
-
-
-#### Understanding similarity between words
-_______
+ * #### Generate a corpus of words then convert these words into embeddings then using this criterion plot these embeddings in 3D space (for simplicity).
+ * #### Use any Relevant Python Libraries to do the computations and metric definitions. Use Plotly.js Python Library to generate the visualizations.
+____________
