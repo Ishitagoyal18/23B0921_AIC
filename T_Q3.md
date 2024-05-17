@@ -48,7 +48,25 @@ where:
 - $x$ and $y$ are vectors representing the points,
 - $S$ is the covariance matrix.
 
- 
+
+#### 3. Frechet Distance
+The Fréchet distance measures the similarity between two curves or trajectories in a metric space. It is basically the the minimum length of a leash required for a person to walk along one curve while a dog walks along the other curve, without backtracking.
+
+Given two curves \(P\) and \(Q\) represented by sequences of points $P = (p_1, p_2, \ldots, p_n)$ and $Q = (q_1, q_2, \ldots, q_m)$, where each point $p_i$ and $q_j$ has coordinates $(x_i^P, y_i^P)$ and $(x_j^Q, y_j^Q)$ respectively, the Fréchet distance $d_F$ is defined as:
+
+$$
+d_F(P, Q) = \inf_{\alpha, \beta} \max_{t \in [0,1]} \|P(\alpha(t)) - Q(\beta(t))\|
+$$
+
+where:
+- $d_F$ is the Fréchet distance,
+- $P(t)$ and $Q(t)$ are parameterizations of the curves $P$ and $Q$,
+- $\alpha$ and $\beta$ range over continuous non-decreasing functions that map $[0, 1]$ to $[0, 1]$,
+- $\|\cdot\|$ represents the Euclidean distance between points.
+
+In simpler terms, the Fréchet distance considers all possible ways of traversing the two curves and chooses the traversal that minimizes the maximum distance between corresponding points on the curves.
+
+
 #### 3. Hamming Distance
 The Hamming distance is the number of positions at which the corresponding coordinates of two vectors differ. It measures the similarity between two strings. It works only if strings are of some length. 
 <br>
