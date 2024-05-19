@@ -4,9 +4,10 @@ _________________
   ##### Day 1-2: Problem Statement Analysis
    * Team meets for reviewing the hackathon guidelines and problem statement thoroughly.
    * Formulating problem statement properly making sure everyone is clear about it.
-   * Dividing tasks to understand requirements, constraints, and research existing solutions.
+   * Discussing project ideas and finalising the ideas in initial days itself so that it can be worked on properly.
+   * Understanding everyone's strengths and dividing tasks  to understand requirements, constraints, and research existing solutions.
  ##### Day 3-4: Data Collection and Exploration
-   * Acquiring datasets from different resources and exploring them to understand their structure, features, and potential challenges, making sure they cover diverse topics.
+   * Gathering relevant data, resources, and existing solutions and exploring them to understand their structure, features, and potential challenges, making sure they cover diverse topics.
    * The most important part is to align the  team on overall approach and dividing responsibilites to ensure all the tasks are done on time
  ##### Day 5-7: Exploratory Data Analysis (EDA)
    * Performing basic exploratory data analysis (EDA) to gain insights into the distribution of 
@@ -28,7 +29,7 @@ _________________
    ##### Day 15-17: Model Selection
    * Implementing baseline models and establishing performance benchmarks.
    * Collaboratively identifying areas for improvement in the initial models.
-   * Experimenting with different techniques, such as hyperparameter tuning and ensemble methods.
+   * Experimenting with different techniques.
     
 ##### Day 18-21: Model Optimization
 * Refining and optimizing models based on team discussions and feedbacks
@@ -42,7 +43,7 @@ _________________
  * Evaluating the finalized model on the test set to assess its generalization performance.
  * Fine-tuning the model based on insights gained from testing.
  * Checking the model for minute errors and rectifying them as soon as possible.
- * Major changes will be made only if they are creating a great impact otherwise going with the original model.
+ * Major changes will be made only if they are creating a great impact.
 ##### Day 29-30: Presentation and Final Touches
  * Preparing a comprehensive presentation outlining the problem statement, methodology, results, and insights.
  * Creating visualizations (e.g., plots, charts) to effectively communicate key findings.
