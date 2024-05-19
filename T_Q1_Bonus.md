@@ -25,7 +25,12 @@ But it can be used for image classification as well. Images can be broken down i
 * The major difference in this is self attention mechanism. self-attention lets it understand how all parts of the image relate to each other, capturing distant relationships better than CNNs.
 * Its more flexible and generalisable that CNN and can handle input images of arbitrary sizes.
 
+### Acknowledgements
 
+1. https://medium.com/@weiwen21/an-image-is-worth-16x16-words-transformers-for-image-recognition-at-scale-957f88e53726
+2. https://medium.com/@faheemrustamy/vision-transformers-vs-convolutional-neural-networks-5fe8f9e18efc
+
+Both of these sites were of great help me to understand this.
 
 
 
