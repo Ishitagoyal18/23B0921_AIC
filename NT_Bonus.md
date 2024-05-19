@@ -2,7 +2,7 @@
 
 The major idea that is in my mind for so long and I really want to work on is:
 
- **Creating an AI platform for insti students** where they can get all their internship doubts cleared. The main picture I have in my mind is: students sign up, tell the system what skills they've got, and what kind of work they're interested in. Then,  It recommends internships that match your skills and interests, and gives you tips on writing resumes, acing interviews, and networking.
+ **Creating an AI platform for insti students where they can get all their internship doubts cleared**. The main picture I have in my mind is: students sign up, tell the system what skills they've got, and what kind of work they're interested in. Then,  It recommends internships that match your skills and interests, and gives you tips on writing resumes, acing interviews, and networking.
  
  We can start by analysing the students' skills and works maybe using machine learning algorithm. Natural Language Processing can be used for resume writting recommendations. Honestly I dont have a very clear technical approach to this but I feel working as a team on this and gaining insights from mentors will be great
  
