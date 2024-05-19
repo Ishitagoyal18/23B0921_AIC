@@ -1,5 +1,5 @@
 # 23B0921_AIC
-This is assignment for AIC, IIT Bombay
+This is assignment for **AIC, IIT Bombay**
 
 * All .ipynb files can be downloaded and run in Google Colab. T4 GPU runtime can be used for better and faster processing.
 * For the technical questions, the analysis is in .ipynb files itsels.
